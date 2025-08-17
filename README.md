@@ -1,12 +1,46 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌌 Aries - An AI Chat Application
 
-Currently, two official plugins are available:
+Aries is a modern AI-powered chat application that brings smooth real-time interaction with an intelligent assistant.  
+Built using **React + Vite**, **Node.js**, and **Context API**, it provides an elegant UI and a blazing-fast experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- 🤖 AI-powered chat responses  
+- ⚡ Fast frontend with Vite + React  
+- 🧩 Context API for state management  
+- 🎨 Clean, responsive UI  
+- ☁️ Easy deployment with Vercel  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React (Vite, Context API)  
+- **Backend:** Node.js   
+- **AI API:** Gemini (configurable)  
+- **Hosting:** Vercel  
+
+---
+
+## 📦 Installation & Setup
+```bash
+# Clone repo
+git clone git@github.com:CelestialCoderrr/Aries.git
+
+# Enter project
+cd Aries
+
+# Install dependencies
+npm install
+
+# Run dev server
+npm run dev
+```
+
+## 🌍 Deployment
+### Deployed with Vercel.
+👉 Live Demo: https://aries-alpha.vercel.app/
+
+## 📄 License
+MIT License © 2025 CelestialCoderrr
